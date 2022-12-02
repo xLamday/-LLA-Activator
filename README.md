@@ -18,6 +18,9 @@
 
 - Sarà Windows 11 supportato?
   - Il nostro team è già a lavoro affinché il programma supporterà anche l'attivazione di Windows 11 in modo gratuito.
+
+- Dove posso vedere il progresso dello sviluppo?
+  - Il progresso dello sviluppo può essere visto premendo su questo link --> https://github.com/users/xLamday/projects/1/views/1
   
 ## Cosa offre il programma al momento (02/12/2022):
 
@@ -46,6 +49,9 @@
 
 - Will Windows 11 be supported?
   - Yes, the team is already working on it in order that the program will support Windows 11 Activation as well for free.
+
+- Where can I see the development progress?
+  - Development progress can be seen by clicking on this link --> https://github.com/users/xLamday/projects/1/views/1
 
 ## What the program currently offers (02/12/2022):
 
