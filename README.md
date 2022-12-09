@@ -26,6 +26,7 @@
 
 - Lingua Inglese/Italiano
 - Attivazione Windows 10 Home e Pro
+- Crack di Spotify
 
 ---
 
@@ -57,6 +58,7 @@
 
 - English/Italian language
 - Windows 10 Home and Pro activation
+- Spotify Crack
 
 ---
 
