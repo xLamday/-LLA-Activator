@@ -22,10 +22,10 @@
 - Dove posso vedere il progresso dello sviluppo?
   - Il progresso dello sviluppo può essere visto premendo su questo link --> https://github.com/users/xLamday/projects/1/views/1
   
-## Cosa offre il programma al momento (02/12/2022):
+## Cosa offre il programma al momento (17/06/2023):
 
 - Lingua Inglese/Italiano
-- Attivazione Windows 10 Home e Pro
+- Attivazione Windows 10 Home, Pro, 2016/2019 Server
 - Crack di Spotify
 
 ---
@@ -54,10 +54,10 @@
 - Where can I see the development progress?
   - Development progress can be seen by clicking on this link --> https://github.com/users/xLamday/projects/1/views/1
 
-## What the program currently offers (02/12/2022):
+## What the program currently offers (17/06/2023):
 
 - English/Italian language
-- Windows 10 Home and Pro activation
+- Windows 10 Home, Pro, 2016/2019 Server activation
 - Spotify Crack
 
 ---
